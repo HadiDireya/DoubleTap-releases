@@ -7,14 +7,14 @@
     <language>en</language>
     <item>
       <title>Version 1.2.0</title>
-      <pubDate>Tue, 14 Apr 2026 01:38:53 +0300</pubDate>
+      <pubDate>Tue, 14 Apr 2026 01:52:46 +0300</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/HadiDireya/DoubleTap-releases/releases/download/v1.2.0/DoubleTap-1.2.0.dmg"
         sparkle:version="1.2.0"
         sparkle:shortVersionString="1.2.0"
-        sparkle:edSignature="BQa747uzh91kMEfprSf0l+HyLkBuAoGjp2p+Kj+p/stYtvh50trPKAFP+BxZ92zspfn617BFAXdbqTiWy7SqAw=="
-        length="3050004"
+        sparkle:edSignature="6q9w1ziN8I4qOolzYTj0f4RFCS9uO8N0bKnrkqAFPYSd7u3l6KwQ49jKLizo0DamvZU/0ScI12F6EpqrgaGzAg=="
+        length="3067190"
         type="application/octet-stream" />
     </item>
   </channel>
