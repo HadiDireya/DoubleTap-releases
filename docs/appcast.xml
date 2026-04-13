@@ -5,5 +5,17 @@
     <link>https://hadidireya.github.io/DoubleTap-releases/appcast.xml</link>
     <description>DoubleTap update feed</description>
     <language>en</language>
+    <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Tue, 14 Apr 2026 00:54:19 +0300</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/HadiDireya/DoubleTap-releases/releases/download/v1.2.0/DoubleTap-1.2.0.dmg"
+        sparkle:version="1.2.0"
+        sparkle:shortVersionString="1.2.0"
+        sparkle:edSignature="Uhgyr/kA9lQHVtatXi4O4wRwt2yqunOAUT5W8yg5WR6ejrTABhvypqHd/FgZr0GDYHBukNKicHFJjthe4/7PDQ=="
+        length="3050094"
+        type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
